@@ -1,0 +1,21 @@
+---
+title: "hw1"
+output: html_document
+author: Jaydon Cobb, github - JaydonLCobb
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+  A job that I think is related to Data Science would be a **Machine Learning Engineer**, I think that there is a relation between the two because a machine learning engineer uses and creates *algorithms and models* in order to make predictions on data. They also attempt to find patterns within data and in my experience so far that seems very similiar to what data science is. 
+  
+[Machine Learning Engineer](https://www.quora.com/What-exactly-does-a-machine-learning-engineer-do)  
+![](https://www.edureka.co/blog/wp-content/uploads/2017/01/Data-Science-skills.jpg)
+```{r}
+`version`
+```
+
