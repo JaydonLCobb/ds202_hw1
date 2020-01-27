@@ -1,0 +1,16 @@
+---
+title: "partner"
+author: "Anthony Song"
+github: "aasong113"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1) I just pushed my file to Jaydon's repository after pull his files from my repository used git push and pull. 
+
+2) Yes I was able to knit HW1. 
+
+3) Make this easier. 
